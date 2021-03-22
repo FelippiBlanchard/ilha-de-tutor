@@ -7,7 +7,7 @@ O objetivo do desenvolvimento deste jogo foi somente para aprender a interface d
 
 para jogar, acesse o link: https://feblanchard.itch.io/ilha-de-tutor
 
-
+<br></br>
 
 English:
 
