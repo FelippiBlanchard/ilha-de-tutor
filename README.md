@@ -9,7 +9,7 @@ para jogar, acesse o link: https://feblanchard.itch.io/ilha-de-tutor
 
 
 
-<h6>English:</h6>
+English:
 
 Game developed on unity with the C # language, 2D arts and sounds are third-party.
 the purpose of the game's development was just to learn how to make the User Interface, add Sounds and switch between Scenes.
